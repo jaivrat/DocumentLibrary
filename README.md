@@ -7,10 +7,10 @@
 3. Book R programming for Data Science: https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf
 
 
-## Text Classification/Categorization
+## TEXT CLASSIFICATION/CATEGORIZATION
 * Sebastini: http://nmis.isti.cnr.it/sebastiani/Publications/ACMCS02.pdf
 
-### TEXT CLASSIFICATION METHOD REVIEW
+### Text Classification Method Review
 https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/1860/mahinovs.pdf;jsessionid=C1F5103018720EE9D0461566E726FD3B?sequence=1
 
 ### Text Classification (Unsupervised)
